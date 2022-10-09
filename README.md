@@ -11,4 +11,4 @@
 
 ### 防災に関するデータ
 
-- [緊急医療救護所(地図)](bousai/kinkyu-iryou-kyuugosho-map.html)
+- [緊急医療救護所(地図)](https://codeforchofu.github.io/open-data/bousai/kinkyu-iryou-kyuugosho-map.html)
