@@ -9,7 +9,7 @@
 
 ### 防災に関するデータ
 
-元データ: https://www.city.chofu.tokyo.jp/www/contents/1489138432196/index.html
+元データ: [防災に関するデータ | 調布市](https://www.city.chofu.tokyo.jp/www/contents/1489138432196/index.html)
 
 - [緊急医療救護所(地図)](https://codeforchofu.github.io/tokyo-chofu-open-data/bousai/kinkyu-iryou-kyuugosho-map.html)
 - [広域避難場所(地図)](https://codeforchofu.github.io/tokyo-chofu-open-data/bousai/kouiki-hinanbasho-map.html)
