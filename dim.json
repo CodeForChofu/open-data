@@ -2,8 +2,18 @@
   "fileVersion": "1.1",
   "contents": [
     {
-      "url": "https://www.city.chofu.tokyo.jp/www/contents/1489138432196/simple/1.xlsx",
+      "url": "https://www.city.chofu.tokyo.jp/www/contents/1489138432196/simple/2.xlsx",
+      "name": "東京都調布市広域避難場所",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "xlsx-to-csv"
+      ],
+      "headers": {}
+    },
+    {
       "name": "東京都調布市緊急医療救護所",
+      "url": "https://www.city.chofu.tokyo.jp/www/contents/1489138432196/simple/1.xlsx",
       "catalogUrl": null,
       "catalogResourceId": null,
       "postProcesses": [

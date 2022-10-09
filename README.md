@@ -12,3 +12,4 @@
 ### 防災に関するデータ
 
 - [緊急医療救護所(地図)](https://codeforchofu.github.io/open-data/bousai/kinkyu-iryou-kyuugosho-map.html)
+- [広域避難場所(地図)](https://codeforchofu.github.io/open-data/bousai/kouiki-hinanbasho-map.html)
