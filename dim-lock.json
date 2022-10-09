@@ -45,6 +45,21 @@
         "xlsx-to-csv"
       ],
       "headers": {}
+    },
+    {
+      "name": "東京都調布市避難所",
+      "url": "https://www.city.chofu.tokyo.jp/www/contents/1489138432196/simple/4.xlsx",
+      "path": "./data_files/東京都調布市避難所/4.xlsx",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "lastModified": "2022-10-04T09:10:57.000Z",
+      "eTag": "462048-3811-d686aa40",
+      "lastDownloaded": "2022-10-09T14:49:48.783Z",
+      "integrity": "",
+      "postProcesses": [
+        "xlsx-to-csv"
+      ],
+      "headers": {}
     }
   ]
 }

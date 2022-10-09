@@ -13,3 +13,5 @@
 
 - [緊急医療救護所(地図)](https://codeforchofu.github.io/tokyo-chofu-open-data/bousai/kinkyu-iryou-kyuugosho-map.html)
 - [広域避難場所(地図)](https://codeforchofu.github.io/tokyo-chofu-open-data/bousai/kouiki-hinanbasho-map.html)
+- [二次避難場所(地図)](https://codeforchofu.github.io/tokyo-chofu-open-data/bousai/niji-hinanbasho-map.html)
+- [避難所(地図)](https://codeforchofu.github.io/tokyo-chofu-open-data/bousai/hinanjo-map.html)
