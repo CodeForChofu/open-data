@@ -20,6 +20,16 @@
         "xlsx-to-csv"
       ],
       "headers": {}
+    },
+    {
+      "url": "https://www.city.chofu.tokyo.jp/www/contents/1489138432196/simple/3.xlsx",
+      "name": "東京都調布市二次避難場所",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "xlsx-to-csv"
+      ],
+      "headers": {}
     }
   ]
 }
