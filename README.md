@@ -3,9 +3,7 @@
 
 ## オープンデータとは
 
-調布市が公開している「オープンデータとは」のページ↓
-
-[オープンデータとは](https://www.city.chofu.tokyo.jp/www/contents/1412581108431/index.html)
+[調布市が公開している「オープンデータとは」のページ](https://www.city.chofu.tokyo.jp/www/contents/1412581108431/index.html)
 
 ## 暮らし・子育て・教育
 
