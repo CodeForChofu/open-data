@@ -1,0 +1,20 @@
+{
+  "lockFileVersion": "1.1",
+  "contents": [
+    {
+      "name": "東京都調布市緊急医療救護所",
+      "url": "https://www.city.chofu.tokyo.jp/www/contents/1489138432196/simple/1.xlsx",
+      "path": "./data_files/東京都調布市緊急医療救護所/1.xlsx",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "lastModified": "2022-10-04T09:10:57.000Z",
+      "eTag": "462080-2a05-d686aa40",
+      "lastDownloaded": "2022-10-09T07:49:19.358Z",
+      "integrity": "",
+      "postProcesses": [
+        "xlsx-to-csv"
+      ],
+      "headers": {}
+    }
+  ]
+}
