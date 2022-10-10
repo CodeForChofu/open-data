@@ -15,3 +15,9 @@
 - [広域避難場所(地図)](https://codeforchofu.github.io/tokyo-chofu-open-data/bousai/kouiki-hinanbasho-map.html)
 - [二次避難場所(地図)](https://codeforchofu.github.io/tokyo-chofu-open-data/bousai/niji-hinanbasho-map.html)
 - [避難所(地図)](https://codeforchofu.github.io/tokyo-chofu-open-data/bousai/hinanjo-map.html)
+
+### 市立小・中学校に関するデータ
+
+元データ: [市立小・中学校に関するデータ 調布市](https://www.city.chofu.tokyo.jp/www/contents/1489047638868/index.html)
+
+- [市立小・中学校一覧(地図)](https://codeforchofu.github.io/tokyo-chofu-open-data/schools/schools-map.html)

@@ -60,6 +60,21 @@
         "xlsx-to-csv"
       ],
       "headers": {}
+    },
+    {
+      "name": "東京都調布市市立小・中学校一覧",
+      "url": "https://www.city.chofu.tokyo.jp/www/contents/1489047638868/simple/1.xls",
+      "path": "./data_files/東京都調布市市立小・中学校一覧/1.xls",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "lastModified": "2022-10-04T10:16:52.000Z",
+      "eTag": "468018-a200-c2432d00",
+      "lastDownloaded": "2022-10-10T02:18:19.759Z",
+      "integrity": "",
+      "postProcesses": [
+        "xlsx-to-csv"
+      ],
+      "headers": {}
     }
   ]
 }
